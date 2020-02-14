@@ -1,0 +1,17 @@
+#Header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.HeaderButton {
+  border: none;
+}
+
+#Shop {
+  display: flex;
+}
+
+.ShopPrices {
+  margin: 10px;
+}
